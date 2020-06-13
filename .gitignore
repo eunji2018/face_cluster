@@ -2,7 +2,10 @@
 .idea/
 .settings/
 bin/
-out/__pycache__/cluster_result/face_rank_order/
+out/
+__pycache__/
+cluster_result/
+face_rank_order/
 txt/
 .classpath
 .project
